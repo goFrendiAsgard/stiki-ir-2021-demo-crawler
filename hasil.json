@@ -1,0 +1,379 @@
+[
+    {
+        "data": {
+            "brand": [
+                {
+                    "id": 864869,
+                    "name": "SepedaLova",
+                    "url": "/u/sepedalova",
+                    "img": "https://s1.bukalapak.com/avt/17641665/thumb/logo-sepedalova-covid19.JPG"
+                }
+            ],
+            "category": [
+                {
+                    "category": "Semua Kategori",
+                    "url": "/products?search[keywords]=sepeda",
+                    "name": "sepeda",
+                    "id": 0,
+                    "root_name": null,
+                    "parent_name": null
+                },
+                {
+                    "category": "Equipment & Tools",
+                    "url": "/c/sepeda/equipment-tools?search[keywords]=sepeda",
+                    "name": "sepeda",
+                    "id": 92,
+                    "root_name": "Sepeda",
+                    "parent_name": "Sepeda"
+                },
+                {
+                    "category": "Sepeda",
+                    "url": "/c/sepeda?search[keywords]=sepeda",
+                    "name": "sepeda",
+                    "id": 64,
+                    "root_name": null,
+                    "parent_name": null
+                },
+                {
+                    "category": "Tools & Others",
+                    "url": "/c/sepeda/equipment-tools/tools-others?search[keywords]=sepeda",
+                    "name": "sepeda",
+                    "id": 273,
+                    "root_name": "Sepeda",
+                    "parent_name": "Equipment & Tools"
+                }
+            ],
+            "history": [],
+            "keyword": [],
+            "menu": [
+                {
+                    "name": "Sports Sale 70%",
+                    "img": "https://s4.bukalapak.com/athena/1608719020940/original/hp_menu_icon_4054b50e-701f-4d55-b2fe-f0c5891f4aca.jpg",
+                    "promo": true,
+                    "url": "https://www.bukalapak.com/promo-campaign/sports-sale",
+                    "platform": [
+                        "android_app",
+                        "ios_app",
+                        "desktop_web",
+                        "mobile_web"
+                    ]
+                },
+                {
+                    "name": "Asuransi Sepeda",
+                    "img": "https://s4.bukalapak.com/athena/1606990860644/original/hp_menu_icon_d3accc5d-98af-42fd-8eec-78ef564e2183.jpg",
+                    "promo": false,
+                    "url": "https://www.bukalapak.com/asuransi-sepeda?source=dope_list",
+                    "platform": [
+                        "android_app",
+                        "ios_app"
+                    ]
+                },
+                {
+                    "name": "Sepeda Diskon s.d. 90%",
+                    "img": "https://s4.bukalapak.com/athena/1599672391523/original/hp_menu_icon_da9914dc-b009-48d1-84ec-dc3e4b57969c.jpg",
+                    "promo": false,
+                    "url": "https://www.bukalapak.com/promo-campaign/pasar-diskon-sepeda-sept",
+                    "platform": []
+                }
+            ],
+            "psize": 3,
+            "visited_sellers": [],
+            "catalog": [],
+            "word": [
+                "helm sepeda",
+                "sepeda anak",
+                "sepeda lipat",
+                "jersey sepeda",
+                "sepeda mtb",
+                "lampu sepeda",
+                "celana sepeda"
+            ],
+            "product": [
+                {
+                    "id": 905417244,
+                    "img": "https://s1.bukalapak.com/img/1587119422/thumb/733934349661599358_scaled.jpg",
+                    "url": "/p/sepeda/equipment-tools/tools-others/ez28f0-jual-tool-alat-congkel-buka-ban-sepeda",
+                    "name": "TOOL ALAT CONGKEL BUKA BAN SEPEDA",
+                    "price": 5100
+                },
+                {
+                    "id": 7985712453,
+                    "img": "https://s0.bukalapak.com/img/09082048542/thumb/data.jpeg",
+                    "url": "/p/sepeda/equipment-tools/lampu-senter/3o2hj5x-jual-lampu-led-sepeda-3-mode",
+                    "name": "lampu LED sepeda 3 mode",
+                    "price": 29500
+                },
+                {
+                    "id": 7815211843,
+                    "img": "https://s0.bukalapak.com/img/58527765772/thumb/data.jpeg",
+                    "url": "/p/sepeda/outwear/pants/3l8z41v-jual-celana-gowes-giosport-mtb-sepeda-lipat",
+                    "name": "Celana Gowes Giosport mtb sepeda lipat",
+                    "price": 175000
+                }
+            ],
+            "user": [
+                {
+                    "id": 4243,
+                    "name": "Sepeda98",
+                    "url": "/u/sepeda98",
+                    "img": "https://s1.bukalapak.com/avt/11202175/thumb/15f250f92e53ee166c2c.",
+                    "super_seller": true,
+                    "brand_seller": false
+                },
+                {
+                    "id": 86985142,
+                    "name": "sepeda70",
+                    "url": "/u/sepeda70",
+                    "img": "https://s4.bukalapak.com/avt/99242322/thumb/1527870076434_scaled.jpg",
+                    "super_seller": true,
+                    "brand_seller": false
+                }
+            ],
+            "time": "time: 6.9999694824219 ms"
+        },
+        "meta": {
+            "http_status": 200
+        }
+    },
+    {
+        "data": {
+            "brand": [],
+            "category": [
+                {
+                    "category": "Semua Kategori",
+                    "url": "/products?search[keywords]=fixie",
+                    "name": "fixie",
+                    "id": 0,
+                    "root_name": null,
+                    "parent_name": null
+                },
+                {
+                    "category": "Sepeda",
+                    "url": "/c/sepeda?search[keywords]=fixie",
+                    "name": "fixie",
+                    "id": 64,
+                    "root_name": null,
+                    "parent_name": null
+                },
+                {
+                    "category": "Part Generik",
+                    "url": "/c/sepeda/part-generik?search[keywords]=fixie",
+                    "name": "fixie",
+                    "id": 138,
+                    "root_name": "Sepeda",
+                    "parent_name": "Sepeda"
+                },
+                {
+                    "category": "Equipment & Tools",
+                    "url": "/c/sepeda/equipment-tools?search[keywords]=fixie",
+                    "name": "fixie",
+                    "id": 92,
+                    "root_name": "Sepeda",
+                    "parent_name": "Sepeda"
+                }
+            ],
+            "history": [],
+            "keyword": [],
+            "menu": [
+                {
+                    "name": "BikinAsik Riding",
+                    "img": "https://s4.bukalapak.com/athena/1597161133413/original/hp_menu_icon_7066b1ff-1b7c-4c85-aa79-5debb043b7d2.jpg",
+                    "promo": true,
+                    "url": "https://www.bukalapak.com/promo-campaign/bikinasik-riding",
+                    "platform": []
+                }
+            ],
+            "psize": 3,
+            "visited_sellers": [],
+            "catalog": [],
+            "word": [
+                "sepeda fixie",
+                "mtb fixie",
+                "bmx fixie",
+                "fixie bmx",
+                "balap fixie",
+                "jas hujan fixie",
+                "hujan fixie"
+            ],
+            "product": [
+                {
+                    "id": 9036719241,
+                    "img": "https://s3.bukalapak.com/img/34945255072/thumb/data.jpeg",
+                    "url": "/p/sepeda/drivetrain/rantai/45g896x-jual-rantai-sepeda-izumi-chain-black-fixie-single-speed",
+                    "name": "Rantai Sepeda IZUMI CHAIN BLACK Fixie Single Speed",
+                    "price": 288000
+                },
+                {
+                    "id": 8072271018,
+                    "img": "https://s0.bukalapak.com/img/50655121842/thumb/data.jpeg",
+                    "url": "/p/sepeda/wheel-hub-rims-dll/ban-luar/3pi0s6i-jual-kenda-ban-luar-700-x-25c-sepeda-fixie-roadbike",
+                    "name": "Kenda Ban luar 700 x 25C sepeda fixie roadbike",
+                    "price": 75000
+                },
+                {
+                    "id": 7896811808,
+                    "img": "https://s1.bukalapak.com/img/63982437342/thumb/data.jpeg",
+                    "url": "/p/olahraga/outdoor/aksesoris-2113/3mlk2zk-jual-dijual-zx432c-crank-fixie-prowell-46t-diskon",
+                    "name": "Dijual ZX432C crank fixie prowell 46T Diskon",
+                    "price": 577500
+                }
+            ],
+            "user": [
+                {
+                    "id": 1536490,
+                    "name": "Fixieaks",
+                    "url": "/u/gilang_abdillahh",
+                    "img": "https://s0.bukalapak.com/avt/52318322/thumb/Screenshot_2018-03-06-22-13-24-39.png",
+                    "super_seller": true,
+                    "brand_seller": false
+                },
+                {
+                    "id": 44797,
+                    "name": "FixieForFun",
+                    "url": "/u/fixieforfun",
+                    "img": "https://www.bukalapak.com/images/default_avatar/_upak/thumb/default.png"
+                }
+            ],
+            "time": "time: 6.9999694824219 ms"
+        },
+        "meta": {
+            "http_status": 200
+        }
+    },
+    {
+        "data": {
+            "brand": [
+                {
+                    "id": 507237753,
+                    "name": "Masker Untuk Indonesia",
+                    "url": "/u/maskeruntukindonesia",
+                    "img": "https://s4.bukalapak.com/avt/99206595/thumb/Artboard_4-100.jpg"
+                }
+            ],
+            "category": [
+                {
+                    "category": "Semua Kategori",
+                    "url": "/products?search[keywords]=masker",
+                    "name": "masker",
+                    "id": 0,
+                    "root_name": null,
+                    "parent_name": null
+                },
+                {
+                    "category": "Outwear Motor",
+                    "url": "/c/motor-471/outwear-motor?search[keywords]=masker",
+                    "name": "masker",
+                    "id": 391,
+                    "root_name": "Motor",
+                    "parent_name": "Motor"
+                },
+                {
+                    "category": "Masker & Slayer",
+                    "url": "/c/motor-471/outwear-motor/masker-slayer?search[keywords]=masker",
+                    "name": "masker",
+                    "id": 438,
+                    "root_name": "Motor",
+                    "parent_name": "Outwear Motor"
+                },
+                {
+                    "category": "Perawatan Wajah",
+                    "url": "/c/perawatan-kecantikan/perawatan-wajah?search[keywords]=masker",
+                    "name": "masker",
+                    "id": 2269,
+                    "root_name": "Perawatan & Kecantikan",
+                    "parent_name": "Perawatan & Kecantikan"
+                }
+            ],
+            "history": [],
+            "keyword": [],
+            "menu": [
+                {
+                    "name": "Pasar Diskon Otomotif",
+                    "img": "https://s4.bukalapak.com/athena/1614331747849/original/hp_menu_icon_b089f622-2d8c-44b7-9ec7-59ac45eb4c9d.jpg",
+                    "promo": true,
+                    "url": "https://www.bukalapak.com/promo-campaign/pasar-diskon-otomotif-mar",
+                    "platform": [
+                        "android_app",
+                        "ios_app",
+                        "desktop_web",
+                        "mobile_web"
+                    ]
+                },
+                {
+                    "name": "Tampil Cantik s.d. 90%",
+                    "img": "https://s4.bukalapak.com/athena/1612771270428/original/hp_menu_icon_cbd402cf-4a79-4f1c-bb80-be4cd8610a53.jpg",
+                    "promo": false,
+                    "url": "https://www.bukalapak.com/promo-campaign/inspirasi-tampil-cantik",
+                    "platform": [
+                        "android_app",
+                        "ios_app",
+                        "desktop_web",
+                        "mobile_web"
+                    ]
+                },
+                {
+                    "name": "Rumah Idaman - Pekarangan",
+                    "img": "https://s4.bukalapak.com/athena/1612759847572/original/hp_menu_icon_af8ce053-9744-423f-91a1-b572b7598c56.jpg",
+                    "promo": false,
+                    "url": "https://www.bukalapak.com/promo-campaign/rumah-idaman-pekarangan",
+                    "platform": []
+                }
+            ],
+            "psize": 3,
+            "visited_sellers": [],
+            "catalog": [],
+            "word": [
+                "masker kain",
+                "masker scuba",
+                "masker wajah",
+                "promo masker",
+                "masker anak",
+                "sale masker",
+                "mask masker"
+            ],
+            "product": [
+                {
+                    "id": 27968411,
+                    "img": "https://s3.bukalapak.com/img/32625956/thumb/Andir-20150908-04368.jpg",
+                    "url": "/p/olahraga/renang/renang-lainnya/gngkb-jual-masker-snorkel-dunlop-s-6",
+                    "name": "Masker + Snorkel Dunlop S-6",
+                    "price": 399000
+                },
+                {
+                    "id": 9454635037,
+                    "img": "https://s4.bukalapak.com/img/41624359282/thumb/data.jpeg",
+                    "url": "/p/kesehatan-2359/alat-kesehatan/timbangan-alat-ukur-kesehatan/4cd1n31-jual-jual-masker-respirator-ori-3m-gratis-filter-diskon",
+                    "name": "Jual Masker Respirator Ori 3M Gratis Filter Diskon",
+                    "price": 271500
+                },
+                {
+                    "id": 9425503099,
+                    "img": "https://s4.bukalapak.com/img/44420267182/thumb/data.jpeg",
+                    "url": "/p/kesehatan-2359/produk-kesehatan-lainnya/4bvp8qj-jual-masker-kf94-4ply-korean-style-protective-mask-mousin-jsp",
+                    "name": "MASKER KF94 4PLY  KOREAN STYLE PROTECTIVE MASK - MOUSIN - JSP",
+                    "price": 2700
+                }
+            ],
+            "user": [
+                {
+                    "id": 12185736,
+                    "name": "masker.koreaid",
+                    "url": "/u/chykakote",
+                    "img": "https://s0.bukalapak.com/avt/03122895/thumb/Logo_masker_koreaid.jpg",
+                    "super_seller": true,
+                    "brand_seller": false
+                },
+                {
+                    "id": 205800721,
+                    "name": "masker_wajqh",
+                    "url": "/u/fransiska_wijaya838",
+                    "img": "https://www.bukalapak.com/images/default_avatar/_upak/thumb/default.png"
+                }
+            ],
+            "time": "time: 8.9998245239258 ms"
+        },
+        "meta": {
+            "http_status": 200
+        }
+    }
+]
